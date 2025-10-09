@@ -42,7 +42,7 @@ Webbasierter Editor zur Erstellung gültiger E-Rechnungen (XRechnung, ZUGFeRD). 
 - Enge Zusammenarbeit mit dem Team  
 
 **Ergebnis:**  
-Fertiges Tool produktiv unter [e-rechnung.aspeo.de/editor](https://e-rechnung.aspeo.de/editor). Fokus auf UX, Datenvalidierung und nachhaltiger Code-Struktur.  
+Fertiges Tool produktiv unter [e-rechnung.aspeo.de/](https://e-rechnung.aspeo.de). Fokus auf UX, Datenvalidierung und nachhaltiger Code-Struktur.  
 
 **Kenntnisse:** PHP · JavaScript · MySQL · JSON · Projektplanung
 
