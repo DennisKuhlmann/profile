@@ -83,3 +83,25 @@ Tool zur automatisierten Überwachung und Auswertung täglicher Server-Backups. 
 Reduzierung manueller Überwachung, vereinfachte Fehleranalyse, stabile Sicherung der Kundendaten. Das Tool ist bis heute aktiv im Einsatz.  
 
 **Kenntnisse:** PHP · MySQL · Cronjobs · Server Monitoring · Automatisierung · Backend Development
+
+--
+
+
+### 🎮 GTA 5 Roleplay – Game Design & Systemkoordination  
+Feb. 2021 – Feb. 2023 | Community-Projekt (Remote, ehrenamtlich)  
+
+**Beschreibung:**  
+Leitung und Mitentwicklung eines FiveM-basierten GTA 5 Roleplay-Servers mit Fokus auf Spielsysteme, Konzeptentwicklung und technische Umsetzung. Besonderer Schwerpunkt auf Balancing, Datenbankpflege und strukturierter Zusammenarbeit im Team.  
+
+**Verantwortlichkeiten:**  
+- Koordination des Game-Design-Teams und Schnittstelle zur Projekt- & Dev-Leitung  
+- Entwicklung und Bewertung von Spieler- und Fraktionskonzepten  
+- Technische Umsetzung von Features via MySQL (HeidiSQL)  
+- Pflege und Anpassung der Spielerdatenbank und Systemlogiken  
+- Unterstützung beim Bugfixing und bei interner Prozessdokumentation  
+- Selbstständige Einarbeitung in AutoCAD und 3ds Max zur Unterstützung der Mapping-Teams  
+
+**Ergebnis:**  
+Strukturiertes Regel- und Organisationssystem stärkte Community-Bindung und Spielfluss. Technische Prozesse und Spielsysteme wurden nachhaltig optimiert und dokumentiert.  
+
+**Kenntnisse:** Game Design · MySQL · Teamführung · Konzeptentwicklung · AutoCAD (Grundlagen) · 3ds Max (Grundlagen) · Prozessdokumentation
