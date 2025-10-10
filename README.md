@@ -91,7 +91,7 @@ Reduzierung manueller Überwachung, vereinfachte Fehleranalyse, stabile Sicherun
 Feb. 2021 – Feb. 2023 | Community-Projekt (Remote, ehrenamtlich)  
 
 **Beschreibung:**  
-Leitung und Mitentwicklung eines FiveM-basierten GTA 5 Roleplay-Servers mit Fokus auf Spielsysteme, Konzeptentwicklung und technische Umsetzung. Besonderer Schwerpunkt auf Balancing, Datenbankpflege und strukturierter Zusammenarbeit im Team.  
+Leitung und Mitentwicklung eines AltV-basierten GTA 5 Roleplay-Servers mit Fokus auf Spielsysteme, Konzeptentwicklung und technische Umsetzung. Besonderer Schwerpunkt auf Balancing, Datenbankpflege und strukturierter Zusammenarbeit im Team.  
 
 **Verantwortlichkeiten:**  
 - Koordination des Game-Design-Teams und Schnittstelle zur Projekt- & Dev-Leitung  
