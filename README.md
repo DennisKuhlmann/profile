@@ -1,107 +1,146 @@
-# Dennis Kuhlmann – Fullstack Developer (Berlin / Remote)
 
-Ich entwickle Software, die klar strukturiert ist und im Alltag funktioniert. In den letzten Jahren habe ich Anwendungen umgesetzt, bei denen es um Recruiting, E-Rechnung, Backups und Datenverwaltung ging. Dabei habe ich viel mit PHP, MySQL und Automatisierungen gearbeitet und gelernt, wie wichtig saubere Prozesse und zuverlässige Systeme sind.
-
-Ich arbeite strukturiert, lösungsorientiert und mit dem Anspruch, Dinge so zu entwickeln, dass sie langfristig Sinn ergeben. Dabei ist mir Teamarbeit wichtig – offener Austausch, klare Kommunikation und ein gemeinsames Ziel machen gute Software aus.
-
-Ich suche aktuell eine Position als **Fullstack Developer**, **remote oder in Berlin**, in einem Team, das auf Qualität, Entwicklung und Zusammenarbeit setzt.
 
 ---
 
-## 🚀 Projekte
+## 💼 **Dennis Kuhlmann – Projektübersicht**
 
-### 🧠 Recruiting Tool – Bewerberverwaltung & Matching-System  
-**Jan. 2024 – Heute** | Aspeo GmbH  
+### 🧠 Überblick
 
-**Beschreibung:**  
-Entwicklung eines internen Recruiting-Systems zur Verwaltung, Analyse und automatisierten Zuordnung von Kandidaten. Fokus auf Performance, Datenstruktur und Multi-Mandanten-Architektur.
-
-**Verantwortlichkeiten:**  
-- Entwicklung der Backend-Logik (PHP, MySQL, Smarty Framework)  
-- Implementierung eines rollenbasierten Berechtigungssystems  
-- Aufbau von DSGVO-konformen Prozessen (Opt-in, Tracking, Rechteverwaltung)  
-- Unterstützung bei Konzeption und UI-Anforderungen für das Matching- und Kampagnenmodul  
-
-**Ergebnis:**  
-System ist produktiv im Einsatz bei mehreren Kunden; Automatisierungsgrad der Recruitingprozesse deutlich gesteigert.  
-
-**Kenntnisse:** PHP · MySQL · JavaScript · Prozessautomatisierung · User Role Management
+Ausgewählte Projekte aus meiner bisherigen Tätigkeit als **Softwareentwickler bei der Aspeo GmbH**.
+Der Fokus liegt auf **skalierbaren, webbasierten Anwendungen**, die produktiv im Einsatz sind und Prozesse automatisieren.
+Technologisch arbeite ich primär mit **PHP, MySQL, JavaScript (jQuery, Bootstrap, Smarty)** – ergänzt durch moderne UI-Konzepte und Sicherheitsaspekte.
 
 ---
 
-### 🧾 Aspeo E-Rechnung – Webbasierter E-Rechnungseditor  
-**Aug. 2024 – März 2025** | Aspeo GmbH  
+## 🏗️ **Bild- und PDF-Export-App für Immobiliengutachten**
 
-**Beschreibung:**  
-Webbasierter Editor zur Erstellung gültiger E-Rechnungen (XRechnung, ZUGFeRD). Ziel: einfache, gesetzeskonforme Rechnungsstellung für KMU – direkt im Browser.
+**🗓️ Nov 2025 – Heute · Aspeo GmbH**
 
-**Verantwortlichkeiten:**  
-- Technische Planung und Architekturdefinition  
-- Umsetzung der Frontend- und Backend-Komponenten  
-- Validierung und Verarbeitung strukturierter XML-Daten  
-- Enge Zusammenarbeit mit dem Team  
+**Ausgangssituation:**
+Bildmaterialien für Immobiliengutachten wurden manuell gesammelt, beschrieben und separat in PDFs eingefügt – zeitaufwendig und fehleranfällig.
 
-**Ergebnis:**  
-Fertiges Tool produktiv unter [e-rechnung.aspeo.de](https://e-rechnung.aspeo.de). Fokus auf UX, Datenvalidierung und nachhaltiger Code-Struktur.  
+**Aufgabe:**
+Entwicklung einer webbasierten Anwendung zur zentralen Bildverwaltung mit direktem, formatiertem PDF-Export.
 
-**Kenntnisse:** PHP · JavaScript · MySQL · JSON · Projektplanung
+**Vorgehen:**
 
----
+* Aufbau der Projekt- und Bildverwaltung *(PHP, MySQL, Smarty)*
+* Drag-and-Drop Upload, Sortierung *(Dropzone, jQuery UI Sortable)*
+* Dynamische PDF-Exportlogik mit Vorlagen & Spracheinstellungen
+* Rollenbasiertes Login- und Vorlagen-Management
+* DataTables-Übersichten mit Filtern & Export
 
-### 👥 Talentpool – Anonymisierte Kandidatenplattform (Techlister)  
-**Mai 2024 – Okt. 2024** | Aspeo GmbH  
+**Ergebnis:**
+Effizienter, standardisierter Prozess für Gutachtenanhänge.
+Aktuell im Pilotbetrieb, geplant für mandantenfähigen Rollout.
 
-**Beschreibung:**  
-Webplattform zur anonymisierten Vermittlung von Fachkräften zwischen Partnerunternehmen. Fokus auf Datenschutz, effiziente Suche und Erweiterbarkeit.
-
-**Verantwortlichkeiten:**  
-- Mitentwicklung des Kandidatenlisten- und Matching-Moduls  
-- Implementierung von Filter- und Suchlogik (PHP, MySQL, JavaScript)  
-- Gestaltung der anonymisierten Profilansichten (UX/UI)  
-- Technische Skalierung für wachsende Datenmengen  
-
-**Ergebnis:**  
-Produktiv im Einsatz unter [talentpool.techlister.de](https://talentpool.techlister.de). Erweiterbare Architektur für verschiedene Branchen.  
-
-**Kenntnisse:** PHP · MySQL · JavaScript · UX/UI · Backend & Frontend Development
+**Technologien:** `PHP | MySQL | Smarty | jQuery | Bootstrap | DataTables`
 
 ---
 
-### 💾 Backup Monitoring Tool – Server Backup-Management & Automatisierung  
-**Sept. 2023 – Jan. 2024** | Aspeo GmbH  
+## ⚙️ **Vermarkter-Backend – Abrechnungssystem für das Recruiting Tool**
 
-**Beschreibung:**  
-Tool zur automatisierten Überwachung und Auswertung täglicher Server-Backups. Zentrale Übersicht über alle Kundenserver – inkl. Statusanzeige und Fehlerprotokolle.
+**🗓️ Jan 2025 – Heute · Aspeo GmbH**
 
-**Verantwortlichkeiten:**  
-- Konzeption und Aufbau der Datenbankstruktur zur Backup-Protokollierung  
-- Entwicklung der Logik zur täglichen Ausführung über Cronjobs  
-- Monitoring-Dashboard zur Anzeige von Erfolgs- und Fehlstatus  
-- Erweiterung der Systeminfrastruktur zur besseren Automatisierung  
+**Ausgangssituation:**
+Das Recruiting-Tool musste mandantenfähig und abrechnungsfähig für mehrere Kunden werden.
 
-**Ergebnis:**  
-Reduzierung manueller Überwachung, vereinfachte Fehleranalyse, stabile Sicherung der Kundendaten. Das Tool ist bis heute aktiv im Einsatz.  
+**Aufgabe:**
+Aufbau eines eigenständigen Backends mit automatischer Mandanten-Erstellung, Subdomain-Generierung und Provisionssystem.
 
-**Kenntnisse:** PHP · MySQL · Cronjobs · Server Monitoring · Automatisierung · Backend Development
+**Vorgehen:**
 
---
+* Multi-Tenant Backend-Architektur *(PHP, MySQL, Smarty)*
+* Rollenbasiertes Berechtigungssystem
+* Automatisierte Datenbank- und Subdomain-Erstellung
+* Abrechnungslogik mit mehrstufigem Provisionsmodell
+* Integration in bestehendes Recruiting Tool
 
+**Ergebnis:**
+Automatisierte Mandanten- und Abrechnungsstruktur für Kundeninstanzen.
 
-### 🎮 GTA 5 Roleplay – Game Design & Systemkoordination  
-Feb. 2021 – Feb. 2023 | Community-Projekt (Remote, ehrenamtlich)  
+**Technologien:** `PHP | MySQL | Smarty | jQuery | DataTables`
 
-**Beschreibung:**  
-Leitung und Mitentwicklung eines AltV-basierten GTA 5 Roleplay-Servers mit Fokus auf Spielsysteme, Konzeptentwicklung und technische Umsetzung. Besonderer Schwerpunkt auf Balancing, Datenbankpflege und strukturierter Zusammenarbeit im Team.  
+---
 
-**Verantwortlichkeiten:**  
-- Koordination des Game-Design-Teams und Schnittstelle zur Projekt- & Dev-Leitung  
-- Entwicklung und Bewertung von Spieler- und Fraktionskonzepten  
-- Technische Umsetzung von Features via MySQL (HeidiSQL)  
-- Pflege und Anpassung der Spielerdatenbank und Systemlogiken  
-- Unterstützung beim Bugfixing und bei interner Prozessdokumentation  
-- Selbstständige Einarbeitung in AutoCAD und 3ds Max zur Unterstützung der Mapping-Teams  
+## 🧩 **Recruiting Tool – Bewerberverwaltung & Matching-System**
 
-**Ergebnis:**  
-Strukturiertes Regel- und Organisationssystem stärkte Community-Bindung und Spielfluss. Technische Prozesse und Spielsysteme wurden nachhaltig optimiert und dokumentiert.  
+**🗓️ Jan 2024 – Heute · Aspeo GmbH**
 
-**Kenntnisse:** Game Design · MySQL · Teamführung · Konzeptentwicklung · AutoCAD (Grundlagen) · 3ds Max (Grundlagen) · Prozessdokumentation
+**Ziel:** Mandantenfähige Plattform zur zentralen Verwaltung von Kandidaten, Unternehmen und Vermarktern.
+
+**Highlights:**
+
+* Multi-Tenant Architektur mit automatischer Datenbankanlage
+* Rollenbasiertes Berechtigungssystem
+* Automatisiertes Matching von Kandidaten und Stellenprofilen
+* Kampagnenmodul und API-Anbindungen (Salesforce)
+* DSGVO-konforme Prozesse (Opt-in, Löschung, Rechteverwaltung)
+
+**Technologien:** `PHP | MySQL | JavaScript | DataTables`
+
+---
+
+## 🧱 **Office Add-in – Microsoft Word Plugin mit Webfrontend**
+
+**🗓️ Juli 2025 – Sept 2025 · Aspeo GmbH**
+
+**Aufgabe:** Frontend-Entwicklung für ein Microsoft Word Add-in mit klarer UI-Struktur und API-Vorbereitung.
+**Technologien:** `JavaScript | Bootstrap | jQuery | UX/UI`
+
+---
+
+## 🗃️ **Jobdatenbank & Import-System**
+
+**🗓️ Jan 2024 – Juni 2025 · Aspeo GmbH**
+
+**Ziel:** Automatisierte Job-Datengrundlage für spätere Recruiting-Plattform.
+**Leistungen:**
+
+* Cronjobs für tägliche Datenverarbeitung
+* Duplikat- und Validierungslogik
+* Dashboard zur Analyse und Fehlerüberwachung
+  **Technologien:** `PHP | MySQL | Cronjobs | Smarty | DataTables`
+
+---
+
+## 💶 **Aspeo E-Rechnung – Webbasierter E-Rechnungseditor**
+
+**🗓️ Aug 2024 – März 2025 · Aspeo GmbH**
+Online-Tool zur Erstellung und Validierung gesetzeskonformer E-Rechnungen (XRechnung, ZUGFeRD).
+**Technologien:** `PHP | JavaScript | MySQL | JSON | Projektplanung`
+
+---
+
+## 🧍‍♂️ **Talentpool – Anonymisierte Kandidatenplattform**
+
+**🗓️ Mai 2024 – Okt 2024 · Aspeo GmbH**
+DSGVO-konforme Plattform zur anonymisierten Fachkräftevermittlung mit Matching, Statistiken und UX-Fokus.
+**Technologien:** `PHP | MySQL | JavaScript | UX/UI | Backend & Frontend`
+
+---
+
+## 🔒 **Backup Monitoring Tool – Server Backup-Management**
+
+**🗓️ Sept 2023 – Jan 2024 · Aspeo GmbH**
+Monitoring-Tool zur automatisierten Backup-Überwachung mit Status-Logging und Benachrichtigungssystem.
+**Technologien:** `PHP | MySQL | Cronjobs | Server Monitoring | Automatisierung`
+
+---
+
+## 🎮 **Game Design Lead – GTA 5 Roleplay Community-Projekt**
+
+**🗓️ Feb 2021 – Feb 2023**
+Leitung und Weiterentwicklung eines Roleplay-Projekts (ALTV) mit System- und Wirtschaftsdesign.
+**Schwerpunkte:** Projektkoordination · Teamführung · Gameplay-Struktur · MySQL · AutoCAD · 3ds Max
+
+---
+
+### 🔗 **Mehr Projekte und Einblicke**
+
+[LinkedIn – Dennis Kuhlmann (Projekte)](https://www.linkedin.com/in/dennis-kuhlmann-2b6063204/details/projects/)
+
+---
+
+Möchtest du, dass ich dir diese Markdown-Datei **direkt als `.md`-Datei exportiere**, damit du sie z. B.
+bei Bewerbungen, GitHub oder auf deiner Portfolio-Seite einbinden kannst?
