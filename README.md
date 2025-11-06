@@ -1,7 +1,3 @@
-
-
----
-
 ## 💼 **Dennis Kuhlmann – Projektübersicht**
 
 ### 🧠 Überblick
