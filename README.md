@@ -136,7 +136,3 @@ Leitung und Weiterentwicklung eines Roleplay-Projekts (ALTV) mit System- und Wir
 
 [LinkedIn – Dennis Kuhlmann (Projekte)](https://www.linkedin.com/in/dennis-kuhlmann-2b6063204/details/projects/)
 
----
-
-Möchtest du, dass ich dir diese Markdown-Datei **direkt als `.md`-Datei exportiere**, damit du sie z. B.
-bei Bewerbungen, GitHub oder auf deiner Portfolio-Seite einbinden kannst?
