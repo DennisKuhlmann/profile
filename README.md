@@ -13,7 +13,7 @@ Die folgenden Projekte zeigen, wie ich komplexe Anforderungen in saubere, wartba
 ## 🛡️ **Benutzermanagement & Mandanten-Hierarchie**
 
 **📅 Zeitraum:** [Aktuell]
-**🏢 Projekt:** System-Architektur
+**🏢 Unternehmen:** Aspeo GmbH
 
 ### 🎯 Ausgangssituation
 
