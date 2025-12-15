@@ -10,6 +10,69 @@ Die folgenden Projekte zeigen, wie ich komplexe Anforderungen in saubere, wartba
 
 ---
 
+## 🛡️ **Benutzermanagement & Mandanten-Hierarchie**
+
+**📅 Zeitraum:** [Aktuell]
+**🏢 Projekt:** System-Architektur
+
+### 🎯 Ausgangssituation
+
+Es wurde eine strukturierte Verwaltungsebene für Benutzer und Firmen benötigt, die eine strikte hierarchische Trennung von Zugriffsrechten und Daten gewährleistet. Ziel war es, unterschiedliche Sichtbarkeiten und Verwaltungsbefugnisse für globale Administratoren, Firmen-Admins und Endbenutzer zu etablieren.
+
+### 💡 Aufgabe
+
+Entwicklung eines differenzierten **Benutzer- und Mandantenmanagements**, das rollenbasierte Dashboards, spezifische CRUD-Rechte und eine mandantenabhängige Konfiguration (z. B. für LLM-Hosts und Token-Preise) bereitstellt.
+
+### 🧠 Vorgehen
+
+## Rollenkonzept
+
+- **Superadmin**  
+  Vollzugriff auf systemweite Daten, Firmen und Auswertungen.  
+  Bereitstellung von Auswahl- und Filterfunktionen für Firmen.
+
+- **Admin**  
+  Zugriff und Bearbeitungsrechte beschränkt auf den eigenen Zuständigkeitsbereich.  
+
+- **Benutzer**  
+  Zugriff ausschließlich auf eigene, zugeordnete Daten.
+
+## Datenbank & Konfiguration
+
+- Erweiterung um erforderliche Parameter.
+- Abbildung mandantenspezifischer Konfigurationen.
+- Anpassung bestehender Systemkonfigurationen.
+
+## Dashboard & Statistiken
+
+- Bereitstellung statistischer Auswertungen:
+  - Letzte 30 Tage
+  - Letzter Monat
+  - Aktueller Monat
+- Rollenabhängige Aufbereitung der Daten:
+  - Superadmin: systemweit
+  - Admin: firmenspezifisch
+  - Benutzer: personenbezogen
+
+## Menüstruktur & Funktionen
+
+- Dynamischer Aufbau der Hauptmenüpunkte abhängig von der Rolle:
+  - **Superadmin**: Statistik, Benutzerverwaltung, Firmenverwaltung
+  - **Admin**: Statistik, Benutzerverwaltung
+  - **Benutzer**: Statistik
+- Integration grundlegender Profilfunktionen (z. B. Passwortänderung).
+
+
+### 📈 Ergebnis
+
+Ein hierarchisches Verwaltungssystem, das eine saubere Mandantentrennung sicherstellt. Es ermöglicht Superadmins die globale Steuerung, während Company-Admins ihre Einheiten eigenständig verwalten können, ohne Zugriff auf fremde Daten zu erhalten.
+
+### 🛠️ Technologien
+
+`PHP` · `MySQL` · `User Role Management` · `Mandantenfähigkeit` · `Backend Architecture` · `Statistik-Module`
+
+---
+
 ## 🏗️ **Bild- und PDF-Export-App für Immobiliengutachten**
 
 **📅 Zeitraum:** Nov 2025 – Heute
@@ -325,5 +388,3 @@ Das Projekt profitierte von **klaren Entscheidungswegen**, einer **stabilen Date
 `Projektkoordination` · `Teamführung` · `Kommunikation` · `Game Design` · `MySQL` · `AutoCAD` · `3ds Max`
 
 ---
-
-
